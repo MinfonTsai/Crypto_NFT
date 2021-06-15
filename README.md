@@ -1,9 +1,9 @@
 # Cryoto NFT : To create the all-new NFTs platform that integrate Defi Metaverse and exchange base on Open-Source and Cross-chain project
-
+<table border="0"><tr>  <td><a href="https://gittron.me/bots/0x2c2ba714315de7625110400669dcb575"><img src="https://s3.amazonaws.com/od-flat-svg/0x2c2ba714315de7625110400669dcb575.png" alt="gittron" width="50"/></a></td><td><a href="https://gittron.me/bots/0x2c2ba714315de7625110400669dcb575">SUPPORT US WITH GITTRON</a></td></tr></table>
 > This is vision to create the all-new NFTs platform that integrated Defi Metaverse and DAO based on Open-Source and Cross-chain projects
 ![image](https://github.com/MinfonTsai/Crypto_NFT/blob/main/artdco_3.png)
 
-<table border="0"><tr>  <td><a href="https://gittron.me/bots/0x2c2ba714315de7625110400669dcb575"><img src="https://s3.amazonaws.com/od-flat-svg/0x2c2ba714315de7625110400669dcb575.png" alt="gittron" width="50"/></a></td><td><a href="https://gittron.me/bots/0x2c2ba714315de7625110400669dcb575">SUPPORT US WITH GITTRON</a></td></tr></table>
+
 
 ## Introduce Artdeco
 
